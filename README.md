@@ -1,7 +1,9 @@
+
 ## Repo for Images
 
 
 ------
+
 https://trail777.github.io
 https://trail77.github.io/img_notes/img1.png
 ------
@@ -11,7 +13,6 @@ https://trail77.github.io/img_notes/img1.png
 
 -----------------
 -----------------
-
 
 
 Вариант_2 (Ч.з. web-ссылку)
