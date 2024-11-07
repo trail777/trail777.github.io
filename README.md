@@ -27,3 +27,6 @@ https://trail77.github.io/img_notes/img1.png
 <kbd>
   <img src="https://"https://trail777.github.io/img_notes/img1.png" alt="Описание картинки" />
 </kbd>
+
+Вариант 4 (с масштабом)
+<img src="https://trail777.github.io/img_notes/img2.png" width="200" />
