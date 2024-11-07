@@ -18,7 +18,9 @@ https://trail77.github.io/img_notes/img1.png
 -----------------
 
 Вариант_2 (Ч.з. web-ссылку)
-![Описание_картинки](https://trail777.github.io/img_notes/img2.png "При наведении мышкой")
+<kbd>
+  <img src="https://trail777.github.io/img_notes/img1.png" width="300" alt="При наведении мышкой 1" />
+</kbd>
 
 ----------
 ----------
