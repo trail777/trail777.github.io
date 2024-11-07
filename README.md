@@ -25,5 +25,5 @@ https://trail77.github.io/img_notes/img1.png
 
 Вариант_3 (С рамкой)
 <kbd>
-<image src="https://"https://trail777.github.io/img_notes/img1.png" alt="Описание картинки">
+<image src="https://"https://trail777.github.io/img_notes/img1.png" alt="Описание картинки" />
 </kbd>
